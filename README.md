@@ -11,14 +11,14 @@ Este documento apresenta o progresso e a estrutura detalhada de um curso complet
 | 1  | 🎬 **Introdução (Assista antes de começar)**                          | 10/10 aulas | 56 min           |
 | 2  | ⚙️ **Instalação**                                                     | 9/9 aulas   | 56 min           |
 | 3  | 🧠 *(Opcional)* **Lógica de Programação - Nunca programou?**          | 4/4 aulas   | 24 min           |
-| 4  | 🐍 **Seus primeiros programas em Python**                             | 3/12 aulas  | 58 min           |
-| 5  | 🔣 **Mais sobre Variáveis**                                           | 0/6 aulas   | 38 min           |
-| 6  | 🔍 **If - Condições em Python**                                       | 0/9 aulas   | 1h22 min         |
-| 7  | ✏️ **Strings - Textos e a importância no Python**                     | 0/10 aulas  | 1h27 min         |
-| 8  | 📋 **Listas Python - Métodos e Usos**                                 | 0/14 aulas  | 2h00 min         |
-| 9  | 🔁 **For - Estrutura de Repetição**                                   | 0/12 aulas  | 1h31 min         |
-| 10 | ♾️ **While e Criando um Loop infinito**                               | 0/4 aulas   | 28 min           |
-| 11 | 📦 **Tuplas - Uma "lista" muito útil e imutável**                     | 0/5 aulas   | 42 min           |
+| 4  | 🐍 **Seus primeiros programas em Python**                             | 12/12 aulas  | 58 min           |
+| 5  | 🔣 **Mais sobre Variáveis**                                           | 6/6 aulas   | 38 min           |
+| 6  | 🔍 **If - Condições em Python**                                       | 9/9 aulas   | 1h22 min         |
+| 7  | ✏️ **Strings - Textos e a importância no Python**                     | 10/10 aulas  | 1h27 min         |
+| 8  | 📋 **Listas Python - Métodos e Usos**                                 | 14/14 aulas  | 2h00 min         |
+| 9  | 🔁 **For - Estrutura de Repetição**                                   | 12/12 aulas  | 1h31 min         |
+| 10 | ♾️ **While e Criando um Loop infinito**                               | 4/4 aulas   | 28 min           |
+| 11 | 📦 **Tuplas - Uma "lista" muito útil e imutável**                     | 5/5 aulas   | 42 min           |
 | 12 | 🧾 **Dicionários em Python**                                          | 0/10 aulas  | 1h24 min         |
 | 13 | 🔄 **Iterables**                                                      | 0/3 aulas   | 23 min           |
 | 14 | 🛠️ **Criando suas funções em Python**                                | 0/21 aulas  | 3h41 min         |
