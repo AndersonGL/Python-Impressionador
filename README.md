@@ -1,4 +1,4 @@
-# 🐍 Jornada Completa de Python - Progresso do Curso
+gu# 🐍 Jornada Completa de Python - Progresso do Curso
 
 Este documento apresenta o progresso e a estrutura detalhada de um curso completo de Python, cobrindo desde fundamentos até tópicos avançados como automações, análise de dados, desenvolvimento web, inteligência artificial e mais.
 
@@ -19,7 +19,7 @@ Este documento apresenta o progresso e a estrutura detalhada de um curso complet
 | 9  | 🔁 **For - Estrutura de Repetição**                                   | 12/12 aulas  | 1h31 min         |
 | 10 | ♾️ **While e Criando um Loop infinito**                               | 4/4 aulas   | 28 min           |
 | 11 | 📦 **Tuplas - Uma "lista" muito útil e imutável**                     | 5/5 aulas   | 42 min           |
-| 12 | 🧾 **Dicionários em Python**                                          | 0/10 aulas  | 1h24 min         |
+| 12 | 🧾 **Dicionários em Python**                                          | 10/10 aulas  | 1h24 min         |
 | 13 | 🔄 **Iterables**                                                      | 0/3 aulas   | 23 min           |
 | 14 | 🛠️ **Criando suas funções em Python**                                | 0/21 aulas  | 3h41 min         |
 | 15 | ⚡ **List Comprehension**                                              | 0/8 aulas   | 56 min           |
