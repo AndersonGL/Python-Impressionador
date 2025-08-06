@@ -71,7 +71,7 @@ Este documento apresenta o progresso e a estrutura detalhada de um curso complet
 📘 Total de Módulos: **58**  
 ⏳ Total de Aulas: **+800**  
 🎯 Progresso Parcial: Em andamento  
-🗓️ Atualizado em: `Julho/2025`
+🗓️ Atualizado em: `Agosto/2025`
 
 ---
 
