@@ -20,7 +20,7 @@ Este documento apresenta o progresso e a estrutura detalhada de um curso complet
 | 10 | ♾️ **While e Criando um Loop infinito**                               | 4/4 aulas   | 28 min           |
 | 11 | 📦 **Tuplas - Uma "lista" muito útil e imutável**                     | 5/5 aulas   | 42 min           |
 | 12 | 🧾 **Dicionários em Python**                                          | 10/10 aulas  | 1h24 min         |
-| 13 | 🔄 **Iterables**                                                      | 0/3 aulas   | 23 min           |
+| 13 | 🔄 **Iterables**                                                      | 3/3 aulas   | 23 min           |
 | 14 | 🛠️ **Criando suas funções em Python**                                | 0/21 aulas  | 3h41 min         |
 | 15 | ⚡ **List Comprehension**                                              | 0/8 aulas   | 56 min           |
 | 16 | ✅ **Exercícios Extras de Revisão**                                   | 0/2 aulas   | 7 min            |
